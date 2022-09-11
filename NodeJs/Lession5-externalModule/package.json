@@ -1,0 +1,19 @@
+{
+  "name": "lession5-externalmodule",
+  "version": "1.0.0",
+  "description": "This is test external module",
+  "main": "externalModule.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "external-module"
+  ],
+  "author": "Md Nazmul Hasan",
+  "license": "ISC",
+  "dependencies": {
+    "random-fruits-name": "^1.9.5",
+    "random-movie-names": "^1.0.2"
+  }
+}
