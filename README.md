@@ -1,16 +1,4 @@
-[![Youtube][youtube-shield]][youtube-url]
-[![Facebook][facebook-shield]][facebook-url]
-[![Instagram][instagram-shield]][instagram-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/learnwithsumit/nodejs-basic-bangla">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">সহজ বাংলায় Node.js টিউটোরিয়াল সিরিজ</h3>
 
 <!-- TABLE OF CONTENTS -->
 
